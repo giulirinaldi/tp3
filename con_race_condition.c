@@ -15,6 +15,7 @@ void *comer_hamburguesa(void *tid)
 			if (cantidad_restante_hamburguesas > 0)
 			{
 				printf("Hola! soy el hilo(comensal) %d, me voy a comer una hamburguesa! Todavía quedan %d \n", (int)tid, cantidad_restante_hamburguesas);
+				turno = (turno + 1) % NUMBER_OF_THREADS;
 				cantidad_restante_hamburguesas--;
 			}
 			else
