@@ -5,7 +5,7 @@ b) pudimos comprobar que los tiempos de ejecucion son distintos ya que al ejecut
 c)Lo que paso fue que el tiempo y el valor final, fueron variando en cada resultado de ejecución, nuevamente como el inciso a) no se pudo predecir un patron o un porque de esta variación. Si pude notar que antes de descomentar las líneas de código el valor final era siempre 0 y el tiempo siempre cambiaba de una ejecución a otra. Una vez descomentadas, todo era variable.
 
 
-b)
+2) b)
 Turno 1:
 El Comensal 1 entra a la zona crítica.
 El Comensal 1 se come una hamburguesa. quedan 7 hamburguesas.
